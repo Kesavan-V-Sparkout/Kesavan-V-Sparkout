@@ -1,16 +1,12 @@
 # Hello, I'm Kesavan Vel
 
-🌟 Frontend Developer passionate about crafting visually stunning and intuitive user interfaces. I thrive on transforming design concepts into pixel-perfect realities and love diving deep into the intricacies of frontend technologies.
+🚀 Frontend Developer with a passion for creating seamless user experiences and pushing the boundaries of web design. I thrive on building dynamic and interactive interfaces that captivate users and enhance their online journey.
 
-📚 Currently advancing my frontend development skills through self-study and hands-on projects, while actively contributing to open-source initiatives.
+🌱 Currently sharpening my frontend skills through various online courses and personal projects, continuously seeking out opportunities to learn and grow in this ever-evolving field.
 
-⚡ Fun fact: I find inspiration for my designs in unexpected places, from nature's patterns to urban street art, believing that creativity knows no bounds.
+⚡ Fun fact: I believe that great frontend development is not just about code, but also about storytelling through design, where each element serves a purpose in the user's narrative.
 
-💡 I'm deeply interested in responsive web design, accessibility, performance optimization, and emerging frontend frameworks and libraries.
-
-💬 Let's discuss all things frontend development, from HTML/CSS techniques to JavaScript frameworks like React and Vue.js. I'm also a fan of exploring hiking trails, experimenting with new recipes, and sharing travel experiences. 🏞️🍲✈️
-
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## Intern at
 
 [![onetab.group](https://www.sparkouttech.com/assets/images/twitter-card.jpg)](https://www.sparkouttech.com/)
 
