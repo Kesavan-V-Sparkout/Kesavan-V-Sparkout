@@ -1,10 +1,10 @@
 # Hello, I'm Kesavan Vel
 
-🚀 Frontend Developer with a passion for creating seamless user experiences and pushing the boundaries of web design. I thrive on building dynamic and interactive interfaces that captivate users and enhance their online journey.
+🚀 Software Developer with a passion for crafting efficient solutions and pushing the boundaries of technology. I excel in building robust software systems that streamline processes and elevate user experiences.
 
-🌱 Currently sharpening my frontend skills through various online courses and personal projects, continuously seeking out opportunities to learn and grow in this ever-evolving field.
+🌱 Currently honing my software development skills through a range of online courses and personal projects, always on the lookout for new challenges to expand my expertise in this dynamic industry.
 
-⚡ Fun fact: I believe that great frontend development is not just about code, but also about storytelling through design, where each element serves a purpose in the user's narrative.
+⚡ Fun fact: I believe that exceptional software development is not just about writing code, but also about weaving a narrative through technology, where each component contributes to the user's journey.
 
 ## Intern at
 
