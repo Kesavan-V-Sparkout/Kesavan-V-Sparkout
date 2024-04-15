@@ -6,7 +6,7 @@
 
 ⚡ Fun fact: I believe that exceptional software development is not just about writing code, but also about weaving a narrative through technology, where each component contributes to the user's journey.
 
-## Intern at
+## Software Developer Trainee at
 
 [![onetab.group](https://www.sparkouttech.com/assets/images/twitter-card.jpg)](https://www.sparkouttech.com/)
 
