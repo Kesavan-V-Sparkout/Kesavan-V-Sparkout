@@ -1,10 +1,10 @@
 # Hello, I'm Kesavan Vel
 
-🚀 Software Developer with a passion for crafting efficient solutions and pushing the boundaries of technology. I excel in building robust software systems that streamline processes and elevate user experiences.
+💻 Aspiring Software Developer keen on crafting efficient solutions and enhancing user experiences.
 
-🌱 Currently honing my software development skills through a range of online courses and personal projects, always on the lookout for new challenges to expand my expertise in this dynamic industry.
+🌱 Actively improving skills through internsips and personal projects.
 
-⚡ Fun fact: I believe that exceptional software development is not just about writing code, but also about weaving a narrative through technology, where each component contributes to the user's journey.
+🔍 Eager to contribute and grow in the dynamic field of software development.
 
 ## Software Developer Trainee at
 
