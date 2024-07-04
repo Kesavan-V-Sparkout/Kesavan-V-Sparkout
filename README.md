@@ -6,7 +6,7 @@
 
 🔍 Eager to contribute and grow in the dynamic field of software development.
 
-## Software Developer Trainee at
+## Junior Software Developer at
 
 [![onetab.group](https://www.sparkouttech.com/assets/images/twitter-card.jpg)](https://www.sparkouttech.com/)
 
